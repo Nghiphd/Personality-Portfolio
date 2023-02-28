@@ -3,6 +3,7 @@
     color:rgba(255, 255, 255, 0.43);
  }
 
-body {
-    color: white;
+.black-blue-gray {
+	background: linear-gradient(#e66465, #9198e5);
 }
+
