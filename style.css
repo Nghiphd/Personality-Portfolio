@@ -3,11 +3,11 @@
  }
 
 #black-purple {
-	 background: linear-gradient(135deg ,#CC99CC, #660066, #000000)
+	 background:linear-gradient(135deg ,#CC99CC, #660066, #000000)
 }
 
 #red-black-yellow {
-    background: linear-gradient(45deg, #FFCC00, #000000, #CC0000);
+    background:linear-gradient(45deg, #FFCC00, #000000, #CC0000);
 
 }
 
@@ -15,3 +15,10 @@
     background:linear-gradient(to left top,#8f71ff ,#000000 , #82acff );
 }
 
+#blue-peach {
+    background:linear-gradient(45deg, #539CFF ,#000000,#EEA47F);
+}
+
+li {
+    font-size: 18px;
+}
