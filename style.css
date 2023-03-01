@@ -1,9 +1,17 @@
  .paragraph {
     font-size: 16px;
-    color:rgba(255, 255, 255, 0.43);
  }
 
-.black-blue-gray {
-	background: linear-gradient(#e66465, #9198e5);
+#black-purple {
+	 background: linear-gradient(135deg ,#CC99CC, #660066, #000000)
+}
+
+#red-black-yellow {
+    background: linear-gradient(45deg, #FFCC00, #000000, #CC0000);
+
+}
+
+#brown-black-red {
+    background:linear-gradient(to left top,#8f71ff ,#000000 , #82acff );
 }
 
