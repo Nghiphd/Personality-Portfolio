@@ -2,6 +2,21 @@
     font-size: 16px;
  }
 
+<--- Personality-Type Background Gradient --->
+#blue-black-gray {
+	background: linear-gradient(135deg ,#000080, #000000, #C0C0C0);
+}
+
+<--- Career Background Gradient --->
+#green-black-red {
+	background: linear-gradient(45deg ,#00FF00, #000000, #FF0000)
+}
+
+<--- 6-word-stories Background Gradient --->
+#blue-peach {
+    background:linear-gradient(45deg, #539CFF ,#000000,#EEA47F);
+}
+
 #black-purple {
 	 background:linear-gradient(135deg ,#CC99CC, #660066, #000000)
 }
@@ -13,10 +28,6 @@
 
 #brown-black-red {
     background:linear-gradient(to left top,#8f71ff ,#000000 , #82acff );
-}
-
-#blue-peach {
-    background:linear-gradient(45deg, #539CFF ,#000000,#EEA47F);
 }
 
 li {
