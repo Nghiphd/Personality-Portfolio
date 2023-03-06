@@ -17,12 +17,13 @@ p {
 
 /* Career Background Gradient */
 #green-black-red {
-	background: linear-gradient(45deg ,#00FF00, #000000, #FF0000)
+	background: linear-gradient(45deg ,#00FF00, #000000, #FF0000);
 }
 
 /* 6-word-stories Background Gradient */
 #blue-peach {
-    background:linear-gradient(45deg, #539CFF ,#000000,#EEA47F);
+    background:linear-gradient(45deg, #539CFF ,#000000, #FFE5B4)!important;
+    background-color:black;
 }
 
 /* Personality Mask Backgroudn Gradient */
@@ -37,7 +38,7 @@ p {
 }
 
 /* Personality Island Background Gradient */
-#brown-black-red {
+#blue-purple {
     background:linear-gradient(to left top,#8f71ff ,#000000 , #82acff );
 }
 
